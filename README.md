@@ -6,14 +6,14 @@ This Project is intented to make a personal fitness page for Yahvell
 
 <html>
 	<head>
-		<title>Music By Yahvell</title>
+		<title>Muscle Fitness By Yahvell</title>
 		<link>
 	</head>
 	</br>
 	<body>
 		<header>
-			<h1>Music By Yahvell</h1>
-			<h3>PersonalMusicPage</h3>
+			<h1>Muscle Fitness By Yahvell</h1>
+			<h2>Personal Fitness Page</h2>
 		</header>
 	<table>
 		<tr>
