@@ -16,7 +16,7 @@ This Project is intented to make a personal music page for Yahvell
 			<h3>PersonalMusicPage</h3>
 		</header>
 	<table>
-		<tr></tr>
+		<tr>
 		<td>Monday</td>
 		<td>Tuesday</td>
 		<td>Wensday</td>
@@ -24,8 +24,14 @@ This Project is intented to make a personal music page for Yahvell
 		<td>Friday</td>
 		<td>Saturday</td>
 		<td>Sunday</td>
-		
-	</table>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		</table>
 		<p>… </p>
 		<p>…</p>
 	</body>
