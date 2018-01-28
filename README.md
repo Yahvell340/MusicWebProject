@@ -17,13 +17,14 @@ This Project is intented to make a personal music page for Yahvell
 		</header>
 	<table>
 		<tr></tr>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+		<td>Monday</td>
+		<td>Tuesday</td>
+		<td>Wensday</td>
+		<td>Thursday</td>
+		<td>Friday</td>
+		<td>Saturday</td>
+		<td>Sunday</td>
+		
 	</table>
 		<p>… </p>
 		<p>…</p>
