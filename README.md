@@ -15,6 +15,16 @@ This Project is intented to make a personal music page for Yahvell
 			<h1>Music By Yahvell</h1>
 			<h3>PersonalMusicPage</h3>
 		</header>
+	<table>
+		<tr></tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</table>
 		<p>… </p>
 		<p>…</p>
 	</body>
