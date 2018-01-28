@@ -30,6 +30,9 @@ This Project is intented to make a personal music page for Yahvell
 			<td></td>
 			<td></td>
 			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 		</tr>
 		</table>
 		<p>… </p>
