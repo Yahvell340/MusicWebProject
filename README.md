@@ -6,7 +6,7 @@ This Project is intented to make a personal fitness page for Yahvell
 
 <html>
 	<head>
-		<title>Muscle Fitness By Yahvell</title>
+		Muscle Fitness By Yahvell
 		<link>
 	</head>
 	</br>
