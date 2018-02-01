@@ -1,16 +1,40 @@
 <!DOCTYPE HTML>
-
 <html>
 	<head>
-		<title> MusicbyYahvell</title>
+		<title>Muscle Fitness by Yahvell</title>
 		<link>
 	</head>
 	<body>
-		<header>
-			<h1>Music By Yahvell</h1>
-			<h3> personal music Page</h3>
+		<header backgroundcolor="red">
+			<h1>Muscle Fitness By Yahvell</h1>
+			<h3> personal fitness page</h3>
 		</header>
-		<p>… </p>
-		<p>…</p>
+        <table border=".5">
+            <tr>"Interactive Schedual"</tr>
+            <tr>
+                <td>Day</td>
+                <td>Mon</td>
+                <td>Tue</td>
+                <td>Wed</td>
+                <td>Thurs</td>
+                <td>Fri</td>
+                <td>Sat</td>
+                <td>Sun</td>
+            </tr>
+            <tr><td>Chest</td><td>PushUPs:4 sets of 25; Planks: 1min</td><td></td><td></td><td></td><td></td><td>Rest</td><td></td></tr>
+            
+            <tr><td>Back</td><td>Backrows:4 sets of 10; Deadlifts:4 sets of 10</td><td></td><td></td><td></td><td></td><td>Rest</td><td></td></tr>
+            
+            <tr><td>Arms</td><td>BicepCurls:4 sets of 10</td><td></td><td></td><td></td><td></td><td>Rest</td><td></td></tr>
+            
+            <tr><td>Legs</td><td>Squats:4 sets of 25</td><td></td><td></td><td></td><td></td><td>Rest</td><td></td></tr>
+            
+            <tr><td>Cardio</td><td>30min</td><td>30min</td><td>30min</td><td>30min</td><td>30min</td><td>Rest</td><td>Rest</td></tr>
+            
+            <tr><td>Abdominals</td><td>Crunches:4 sets of 25</td><td></td><td></td><td></td><td></td><td>Rest</td><td></td></tr>
+           
+        </table>
+		<p>This is the 1st paragraph </p>
+		<p>This is the seconde paragraph</p>
 	</body>
 </html>
